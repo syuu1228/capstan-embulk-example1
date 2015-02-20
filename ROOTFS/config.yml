@@ -1,6 +1,6 @@
 in:
   type: file
-  path_prefix: /try1/csv/sample_
+  path_prefix: ./try1/csv/sample_
   decoders:
   - {type: gzip}
   parser:
